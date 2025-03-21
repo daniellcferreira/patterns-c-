@@ -1,4 +1,11 @@
 # Design Patterns em C#
+<p>
+  <img src="https://img.shields.io/badge/C%23-Linguagem-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
+
+</p>
+
+
 
 Bem-vindo ao repositório do curso de Design Patterns em C# oferecido pela Ada Tech. Este curso aborda diversos padrões de projeto fundamentais para o desenvolvimento de software em C#.
 
